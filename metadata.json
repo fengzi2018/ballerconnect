@@ -1,0 +1,8 @@
+{
+  "name": "BallerConnect",
+  "description": "A comprehensive basketball community app for matchmaking, NBA news, gear discussions, and AI-powered game memory generation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
